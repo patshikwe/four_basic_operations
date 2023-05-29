@@ -8,12 +8,13 @@
 // const resultAddString = 2 + "2"
 // console.log("resultAddString =>", resultAddString)
 // console.log("resultAddString is", typeof(resultAddString))
-/* 
-English : adding a number and a character string 
-causes a merger of these 2 elements = CONCATENATION
 
-french : l'addition d'un chiffre et d'une chaîne de caractère 
-provoque une fusion de ces 2 éléments = CONCATENATION
+/* 
+English : The addition of a number and a character string 
+causes a fusion of these 2 elements = CONCATENATION.
+
+french : L'addition d'un nombre et d'une chaîne de caractère 
+provoque une fusion de ces 2 éléments = CONCATENATION.
 */
 
 /* ================================== */
